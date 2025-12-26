@@ -335,9 +335,9 @@ Un hallazgo positivo es la mayor movilidad educacional de las mujeres, sugiriend
 
 **Email:** simone.schondorfer.010@gmailcom
 
-**LinkedIn:** [[tu-perfil-linkedin]](https://www.linkedin.com/in/simone-schöndorfer-60088b2a0/)
+**LinkedIn:** https://www.linkedin.com/in/simone-schöndorfer-60088b2a0/
 
-**GitHub:** [[tu-usuario-github]](https://github.com/Coco-and-data)
+**GitHub:** https://github.com/Coco-and-data
 
 ---
 
